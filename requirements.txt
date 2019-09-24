@@ -1,0 +1,7 @@
+mxnet
+mxboard
+numpy
+h5py
+pandas
+scipy
+matplotlib
